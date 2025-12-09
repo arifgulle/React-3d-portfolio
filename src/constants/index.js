@@ -76,18 +76,18 @@ const logoIconsList = [
 const abilities = [
   {
     imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    title: "Orientation Qualité",
+    desc: "Fournir des résultats de haute qualité tout en accordant une attention à chaque détail.",
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    title: "Communication Fiable",
+    desc: "Vous tenir informé à chaque étape pour garantir transparence et clarté.",
   },
   {
     imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    title: "Livraison Ponctuelle",
+    desc: "Veiller à ce que les projets soient réalisés dans les délais, avec qualité et souci du détail.",
   },
 ];
 
